@@ -16,11 +16,5 @@
     "enable": true,
     "name": "Ikaros Analytics",
     "link": "https://analytics.ikaros.run/share/HpFEzaaekV9NOCZn/ikaros%20docs"
-  },
-  {
-    "icon": "Blog",
-    "enable": false,
-    "name": "GuoHao's Blog",
-    "link": "https://blog.liguohao.cn/"
   }
 ]
