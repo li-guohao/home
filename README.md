@@ -1,19 +1,10 @@
 # 阿豪の主页
 
-### 源头仓库
+## 源头仓库
 
 Fork from <https://github.com/imsyy/home>
 
-### 功能
-
-- [x] 载入动画
-- [x] 站点简介
-- [x] Hitokoto 一言
-- [x] 日期及时间
-- [x] 实时天气
-- [x] 时光进度条
-- [x] 音乐播放器
-- [x] 移动端适配
+我已经改的面目全非了。
 
 ### 部署
 
@@ -55,10 +46,3 @@ pnpm build
 * [xicons](https://xicons.org/)
 * [Aplayer](https://aplayer.js.org/)
 
-### API
-
-* [小歪 API](https://api.aixiaowai.cn)
-* [搏天 API](https://api.btstu.cn/doc/sjbz.php)
-* [高德开放平台](https://lbs.amap.com/)
-* [Hitokoto 一言](https://hitokoto.cn/)
-* [MetingAPI By 武恩赐](https://api.wuenci.com/meting/api/)
