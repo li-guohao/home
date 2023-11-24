@@ -49,11 +49,6 @@ jobs:
       - name: Run pnpm build
         run: pnpm build
 
-      - name: Run yarn install
-        uses: borales/actions-yarn@v4
-        with:
-          cmd: install # will run `yarn install` command
-
       - name: Deploy build static files
         uses: easingthemes/ssh-deploy@main
         env:
